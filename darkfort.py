@@ -1,6 +1,5 @@
 from random import randint
 from random import choice
-import os
 
 inventory = {}
 silver = 15 + randint(1, 6)
